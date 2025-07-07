@@ -5,17 +5,17 @@
 [![An image of @mayank8528's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank8528)](https://holopin.io/@mayank8528)
 
 
-<h1 align="center">Hi, I'm Anwar Al-Hitar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Mayank Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300C4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full-Stack+Developer;Laravel+and+.NET+Specialist;Passionate+about+SaaS+and+Multivendor+Marketplaces;Always+Learning+and+Exploring+New+Tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300C4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+and+Exploring+New+Tech">
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Anwar-alhitar&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Mayank-Srivastava&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" height=25px, width=160px/> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Activity Rank" target="_blank" height=25px, width=250px/> 
 	</a>
@@ -29,34 +29,22 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🌟 I am a **Full-Stack Developer** with expertise in **Laravel** and **.NET MVC Core**.
-- 🚀 I’m passionate about building **SaaS applications** and **multivendor marketplaces**.
-- 🎙️ Podcast host, sharing insights about tech and innovation.
-- 📚 Currently learning **Blazor**, **Docker**, and **DevOps tools**.
+- 🌟 I am a **Full-Stack Developer** with expertise in **Node-JS**.
+- 🚀 I’m passionate about building **Web applications**.
+- 📚 Currently learning **GenAI**, **Docker**, and **DevOps tools**.
 - 🤝 Open for **collaborations** and **job opportunities**!
-- 🌍 Based in **Yemen**, exploring global opportunities.
-- 🌟 Check my **[Resume](https://rowad.tarwege.com/anwar)** and **[Website](https://rowad.tarwege.com/anwar)**.
+- 🌍 Based in **Delhi-NCR**, exploring global opportunities.
 
 ---
 
 ## 🌐 Introduction
 
-I'm web developer with more than five years experiance , i work in Ebda3Soft company from 2023 to now , i worked in  
+I'm web developer with more than two years experience
 
 ---
 
 ## 🛠️ Languages, Skills, & Tools 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -67,9 +55,6 @@ I'm web developer with more than five years experiance , i work in Ebda3Soft com
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
 ---
@@ -110,13 +95,10 @@ Here are some examples:
 
 ## 🌟 Contact Me
 <div align="left">
-  <a href="https://www.youtube.com/@%D8%A7%D9%86%D9%88%D8%B1%D8%B7%D9%87%D8%A7%D9%84%D9%87%D8%AA%D8%A7%D8%B1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube"  />
-  </a>
-  <a href="mailto:anwaralhitar@gmail.com" target="_blank">
+  <a href="mailto:mayanksrivastava11111@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="https://www.linkedin.com/in/anwar-al-hitar-a29a82119/" target="_blank">
+  <a href="https://www.linkedin.com/in/anwar-al-hitar-a29a82119/https://www.linkedin.com/in/mayank-srivastava-79949727b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
 </div>
