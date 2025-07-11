@@ -98,7 +98,7 @@ Here are some examples:
   <a href="mailto:mayanksrivastava11111@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="https://www.linkedin.com/in/anwar-al-hitar-a29a82119/https://www.linkedin.com/in/mayank-srivastava-79949727b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-srivastava-79949727b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
 </div>
