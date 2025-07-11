@@ -1,104 +1,88 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanak227&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/Mayank8528?tab=repositories)
-
-![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank8528&count_private=true&show_icons=true&theme=tokyonight)
-
-[![An image of @mayank8528's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank8528)](https://holopin.io/@mayank8528)
-
-
 <h1 align="center">Hi, I'm Mayank Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300C4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+and+Exploring+New+Tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Web+Developer;Node.js+%7C+React+%7C+MongoDB;Building+Scalable+Web+Apps;Exploring+GenAI+and+DevOps">
   </a>
 </p>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Mayank-Srivastava&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" height=25px, width=160px/> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Activity Rank" target="_blank" height=25px, width=250px/> 
-	</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayank8528&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" height=25px/>
 </p>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## 🧑‍💻 About Me
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-- 🌟 I am a **Full-Stack Developer** with expertise in **Node-JS**.
-- 🚀 I’m passionate about building **Web applications**.
-- 📚 Currently learning **GenAI**, **Docker**, and **DevOps tools**.
-- 🤝 Open for **collaborations** and **job opportunities**!
-- 🌍 Based in **Delhi-NCR**, exploring global opportunities.
+- 💻 I'm a passionate **Full-Stack Web Developer**
+- 🌍 Based in **Delhi-NCR**, open to **remote/global roles**
+- 🛠 Tech Stack: `JavaScript`, `Node.js`, `MongoDB`, `React.js`, `Tailwind`, `Express.js`
+- 🔭 Currently learning: `GenAI`, `Docker`, `CI/CD`, `Next.js`
+- 🤝 Open to freelance, internships, and collaborations
 
 ---
 
-## 🌐 Introduction
+## 🛠️ Tech Stack & Tools
 
-I'm web developer with more than two years experience
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat-square)
 
----
+### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
 
-## 🛠️ Languages, Skills, & Tools 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-</div>
+### 🧠 Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat-square)
 
----
-
-## 🚀 Embed Real-time Widget in Repo's / Personal README.md
-
-Here are some examples:
-
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
-
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://masterfulcrm.com">Visit our website</a >|
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ---
 
-## 🌟 Contact Me
-<div align="left">
-  <a href="mailto:mayanksrivastava11111@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
+## 📈 GitHub Activity & Badges
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank8528&count_private=true&show_icons=true&theme=tokyonight" width="49%" />
+	<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank8528&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" width="39%" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@mayank8528">
+    <img src="https://holopin.me/mayank8528" alt="Holopin badges" />
   </a>
-  <a href="https://www.linkedin.com/in/mayank-srivastava-79949727b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
-  </a>
-</div>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<a href="mailto:mayanksrivastava11111@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/mayank-srivastava-79949727b/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" />
+</a>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
